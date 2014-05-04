@@ -21,6 +21,9 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+debian/
+tests/
+tmp/
 
 # Installer logs
 pip-log.txt

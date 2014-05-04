@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Obrázky do PDF
+GenericName=Image Convertor
+Comment=Z více obrázků vytvoří jedno PDF
+Exec=i2pdf.py
+Icon=i2pdf
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;GTK;
+StartupNotify=true
